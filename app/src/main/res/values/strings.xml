@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TallerPractico</string>
+    <string name="tv_name_artist">Artista</string>
+    <string name="tv_name_seasons">Verano</string>
+    <string name="tv_name_song">Prisionero de tus ojos</string>
+    <string name="tv_name_album">JUDAS PRIEST</string>
+</resources>
